@@ -6,7 +6,7 @@
 
 def get_radius(prompt):    
     r = int(input(prompt))
-    return r;
+    return r
 
 def get_circle_area():
     area = 3.14*int(r)*int(r)
