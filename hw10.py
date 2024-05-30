@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 import os
 import struct
 
@@ -61,10 +55,3 @@ else:
     print(f'평균: {avg:.1f}')
     
     save_scores(filename, scores)
-
-
-# In[ ]:
-
-
-
-
